@@ -55,6 +55,12 @@ sudo rm -rf sonarqube-9.1.0.47736.zip
 // sudo unzip sonarqube-25.3.0.104237.zip
 // sudo rm -rf sonarqube-25.3.0.104237.zip
 ```
+### Latest Community edition - April 2024
+https://binaries.sonarsource.com/CommercialDistribution/sonarqube-developer/sonarqube-developer-2025.2.0.105476.zip
+
+### Latest Developer edition - April 2024
+https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-25.4.0.105899.zip
+
 ###  Version - this version worked last time in - August 10, 2024 in class
 ```sh
 sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.3.0.82913.zip
